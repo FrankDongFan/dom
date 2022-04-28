@@ -1,4 +1,4 @@
-# dom
+# 手写dom
 ## 增
 dom.create(`<div>hi</div>`)用于创建节点  
 dom.after(node,node2)用于新增滴滴  
